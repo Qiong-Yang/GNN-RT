@@ -2,7 +2,7 @@
 
 The GNN-RT can obtain the data-driven representations of molecules through the end-to-end learning with GNN, and predict the retention time with the GNN-learned representations. It takes molecular graph as the input, and the predicted retention time as the output. The GNN architecture is showed as following:
 
-![GNN](https://github.com/Qiong-Yang/GNN-RT/blob/master/support/Figure1.png)
+![GNN](https://github.com/Qiong-Yang/GNN-RT/blob/master/support/figure.png)
 
 # Motivation
 
