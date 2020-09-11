@@ -2,7 +2,7 @@
 
 The GNN-RT can obtain the data-driven representations of molecules through the end-to-end learning with GNN, and predict the retention time with the GNN-learned representations. It takes molecular graph as the input, and the predicted retention time as the output. The GNN architecture is showed as following:
 
-![GNN](https://github.com/Qiong-Yang/GNN-RT/blob/master/support/figure.png)
+![GNN](https://github.com/Qiong-Yang/GNN-RT/blob/master/support/Figure.tif)
 
 # Motivation
 
@@ -20,4 +20,4 @@ conda install -c rdkit rdkit
 
 # Usage
 
-If you want to train a model based on your in-house database, please put your spectra files in to **data** directory and run **preprocess.py** and  **train.py**.
+If you want to train a model based on your in-house database, please put your spectra files in to **data** directory and run preprocess.py** ,  train.py** and Transferlearning.py**.
