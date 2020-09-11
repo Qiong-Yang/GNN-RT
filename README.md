@@ -20,4 +20,4 @@ conda install -c rdkit rdkit
 
 # Usage
 
-If you want to train a model based on your in-house database, please put your spectra files in to **data** directory and run preprocess.py** ,  train.py** and Transferlearning.py**.
+If you want to train a model based on your in-house database, please put your spectra files in to **data** directory and run   [Preprocess.py](Preprocess.py) ,  [Train.py](Train.py) and  [Transferlearning.py](Transferlearning.py) 
