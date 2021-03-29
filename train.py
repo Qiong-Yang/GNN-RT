@@ -186,7 +186,7 @@ if __name__ == "__main__":
         device = torch.device('cpu')
         print('The code uses a CPU...')
     print('-'*100)
-    print('Preprocessing the', dataset, 'dataset.')
+    #print('Preprocessing the', dataset, 'dataset.')
     print('Just a moment......')    
     print('-'*100)
     print('The preprocess has finished!')
